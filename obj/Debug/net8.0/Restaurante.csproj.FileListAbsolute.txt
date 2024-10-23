@@ -1,0 +1,14 @@
+/home/nabuin/Documentos/Clase/Restaurante/bin/Debug/net8.0/Restaurante
+/home/nabuin/Documentos/Clase/Restaurante/bin/Debug/net8.0/Restaurante.deps.json
+/home/nabuin/Documentos/Clase/Restaurante/bin/Debug/net8.0/Restaurante.runtimeconfig.json
+/home/nabuin/Documentos/Clase/Restaurante/bin/Debug/net8.0/Restaurante.dll
+/home/nabuin/Documentos/Clase/Restaurante/bin/Debug/net8.0/Restaurante.pdb
+/home/nabuin/Documentos/Clase/Restaurante/obj/Debug/net8.0/Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+/home/nabuin/Documentos/Clase/Restaurante/obj/Debug/net8.0/Restaurante.AssemblyInfoInputs.cache
+/home/nabuin/Documentos/Clase/Restaurante/obj/Debug/net8.0/Restaurante.AssemblyInfo.cs
+/home/nabuin/Documentos/Clase/Restaurante/obj/Debug/net8.0/Restaurante.csproj.CoreCompileInputs.cache
+/home/nabuin/Documentos/Clase/Restaurante/obj/Debug/net8.0/Restaurante.dll
+/home/nabuin/Documentos/Clase/Restaurante/obj/Debug/net8.0/refint/Restaurante.dll
+/home/nabuin/Documentos/Clase/Restaurante/obj/Debug/net8.0/Restaurante.pdb
+/home/nabuin/Documentos/Clase/Restaurante/obj/Debug/net8.0/Restaurante.genruntimeconfig.cache
+/home/nabuin/Documentos/Clase/Restaurante/obj/Debug/net8.0/ref/Restaurante.dll
